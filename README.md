@@ -2,7 +2,7 @@
 
 **Plan your learning journey. Track your progress. Achieve your goals.**
 
-[🚀 Try it now](https://studyplan-52f69726.netlify.app) — No sign-up needed. Works offline too!
+[🚀 Try it now](https://studyplann-por.netlify.app) — No sign-up needed. Works offline too!
 
 ---
 
@@ -25,7 +25,7 @@ Study Planner is a simple and beautiful app that helps you organize your learnin
 
 ### Visit the App
 
-Open [Study Planner](https://studyplan-52f69726.netlify.app) in your web browser. No installation needed!
+Open [Study Planner](https://studyplann-por.netlify.app) in your web browser. No installation needed!
 
 ### Create Your First Goal
 
@@ -194,4 +194,4 @@ Study Planner is free to use. See LICENSE file for details.
 
 **Happy learning! 📚**
 
-Start your first goal today at [Study Planner](https://studyplan-52f69726.netlify.app)
+Start your first goal today at [Study Planner](https://studyplann-por.netlify.app)
